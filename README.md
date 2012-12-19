@@ -1,4 +1,4 @@
-Contao TinyMceGoogelMaps Extension
+Contao TinyMceGoogleMaps Extension
 ==================================
 
 Special TinyMCE plugin to add Google Maps into the editor via button.
@@ -16,7 +16,7 @@ Install it manually.
 Tracker
 -------
 
-https://github.com/cliffparnitzky/TinyMceGoogelMaps/issues
+https://github.com/cliffparnitzky/TinyMceGoogleMaps/issues
 
 
 Compatibility
@@ -41,4 +41,4 @@ Configuration
 Screenshot
 ----------
 
-![Screenshot](https://raw.github.com/cliffparnitzky/TinyMceGoogelMaps/master/screenshot.jpg)
+![Screenshot](https://raw.github.com/cliffparnitzky/TinyMceGoogleMaps/master/screenshot.jpg)
