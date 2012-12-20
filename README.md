@@ -22,7 +22,7 @@ https://github.com/cliffparnitzky/TinyMceGoogleMaps/issues
 Compatibility
 -------------
 
-- min. version: Contao 2.9.5
+- min. version: Contao 2.10.0
 - max. version: Contao 2.11.6
 
 
