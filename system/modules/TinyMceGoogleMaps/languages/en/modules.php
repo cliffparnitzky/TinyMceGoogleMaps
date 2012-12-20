@@ -30,6 +30,6 @@
 /**
  * Define name and tooltip for preferences (inactive modules)
  */
-$GLOBALS['TL_LANG']['MOD']['TinyMceGoogleMaps'] = array('TinyMCE Google Maps Plugin', 'Special TinyMCE plugin to add Google Maps into the editor via button.');
+$GLOBALS['TL_LANG']['MOD']['TinyMceGoogleMaps'] = array('TinyMCE Google Maps Plugin', 'Special TinyMCE plugin to add maps from GoogleMaps into the editor via button.');
 
 ?>
