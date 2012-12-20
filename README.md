@@ -35,7 +35,7 @@ Dependency
 Configuration
 -------------
 
-- It's necessary to add `<script>` to the list of **Allowed HTML tags** (see Settings => Security Settings)
+- It's necessary to add `<script>` to the list of **Allowed HTML tags** (see Settings => Security Settings).
 
 
 Screenshot
