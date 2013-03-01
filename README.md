@@ -1,5 +1,5 @@
-Contao TinyMceGoogleMaps Extension
-==================================
+Contao Extension: TinyMceGoogleMaps
+===================================
 
 Special TinyMCE plugin to add maps from GoogleMaps into the editor via button.
 
@@ -23,7 +23,7 @@ Compatibility
 -------------
 
 - min. version: Contao 2.10.0
-- max. version: Contao 2.11.6
+- max. version: Contao 2.11.x
 
 
 Dependency
