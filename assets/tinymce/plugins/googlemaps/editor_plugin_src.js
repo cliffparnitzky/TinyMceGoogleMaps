@@ -51,7 +51,7 @@
 					mapIndex = 0;
 					while (i--) {
 						node = nodes[i];
-						if (node && node.attr('class').substring(0,16) == "mceItemGoogleMap")
+						if (node && node.attr('class') && node.attr('class').substring(0,16) == "mceItemGoogleMap")
 						{
 							self.imgToObject(node, args, mapIndex, ed);
 							mapIndex++;
