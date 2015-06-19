@@ -43,4 +43,4 @@ Configuration
 Screenshot
 ----------
 
-![Screenshot](https://raw.github.com/cliffparnitzky/TinyMceGoogleMaps/master/screenshot.jpg)
+![Screenshot](screenshot.jpg)
