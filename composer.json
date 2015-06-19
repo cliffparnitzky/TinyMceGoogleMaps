@@ -25,12 +25,12 @@
 	"extra":{
 		"contao":{
 			"sources":{
-				"assets/tinymce/plugins/googlemaps":"assets/tinymce/plugins/googlemaps",
+				"assets/tinymce4/plugins/googlemaps":"assets/tinymce4/plugins/googlemaps",
 				"system/modules/TinyMceGoogleMaps":"system/modules/TinyMceGoogleMaps"
 			}
 		},
 		"branch-alias": {
-			"dev-master": "1.0.x-dev"
+			"dev-support/contao3.2": "2.0.x-dev"
 		}
 	}
 }
